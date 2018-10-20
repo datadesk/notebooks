@@ -6,6 +6,7 @@ All of our computational notebooks. Also available as [a CSV file](notebooks.csv
 |:--|:--|:--|
 |  2018-10-20 | [hollister-ranch-analysis](https://github.com/datadesk/hollister-ranch-analysis) | Agricultural property tax breaks in Hollister Ranch |
 |  2018-06-27 | [la-settlements-analysis](https://github.com/datadesk/la-settlements-analysis) | Legal payouts made by L.A. city |
+|  2018-04-28 | [california-k12-notebooks](https://github.com/datadesk/california-k12-notebooks) | Download and process California K12 data |
 |  2018-03-16 | [street-racing-analysis](https://github.com/datadesk/street-racing-analysis) | Street racing fatalities in L.A. County |
 |  2018-02-04 | [homeless-arrests-analysis](https://github.com/datadesk/homeless-arrests-analysis) | Arrests of the homeless by the LAPD |
 |  2017-12-14 | [ferc-enforcement-analysis](https://github.com/datadesk/ferc-enforcement-analysis) | Civil penalties issued by FERC |
