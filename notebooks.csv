@@ -3,7 +3,7 @@ hollister-ranch-analysis,2018-10-20,Agricultural property tax breaks in Holliste
 la-settlements-analysis,2018-06-27,Legal payouts made by L.A. city,https://github.com/datadesk/la-settlements-analysis
 street-racing-analysis,2018-03-16,Street racing fatalities in L.A. County,https://github.com/datadesk/street-racing-analysis
 homeless-arrests-analysis,2018-02-04,Arrests of the homeless by the LAPD,https://github.com/datadesk/homeless-arrests-analysis
-ferc-enforcement-analysis,2017-12-14,Civil penalties issued by the Federal Energy Regulatory Commission,https://github.com/datadesk/ferc-enforcement-analysis
+ferc-enforcement-analysis,2017-12-14,Civil penalties issued by the FERC,https://github.com/datadesk/ferc-enforcement-analysis
 houston-flood-zone-analysis,2017-11-08,Houston homes after Hurricane Harvey,https://github.com/datadesk/houston-flood-zone-analysis
 california-kindergarten-vaccination-analysis,2017-08-13,California kindergartens with the lowest vaccination rates,https://github.com/datadesk/california-kindergarten-vaccination-analysis
 california-h2a-visas-analysis,2017-05-25,Temporary visas granted to foreign agricultural workers,https://github.com/datadesk/california-h2a-visas-analysis
@@ -11,4 +11,4 @@ construction-jobs-analysis,2017-04-20,The demographics and pay of construction w
 california-electricity-capacity-analysis,2017-02-05,California's power glut and the increasing cost to consumers,https://github.com/datadesk/california-electricity-capacity-analysis
 california-ccscore-analysis,2016-10-31,Water usage after the state eased drought restrictions,https://github.com/datadesk/california-ccscore-analysis
 la-vacant-building-complaints-analysis,2016-06-15,Vacant building complaints filed with L.A. city,https://github.com/datadesk/la-vacant-building-complaints-analysis
-lapd-crime-classification-analysis,2015-10-15,"An estimated 14,000 serious assaults misclassified by LAPD",https://github.com/datadesk/lapd-crime-classification-analysis
+lapd-crime-classification-analysis,2015-10-15,"Serious assaults misclassified by LAPD",https://github.com/datadesk/lapd-crime-classification-analysis
