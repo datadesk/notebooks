@@ -13,7 +13,7 @@ All of our computational notebooks. Also available as [a CSV file](notebooks.csv
 |  2017-08-13 | [california-kindergarten-vaccination-analysis](https://github.com/datadesk/california-kindergarten-vaccination-analysis) | California kindergartens with the lowest vaccination rates |
 |  2017-05-25 | [california-h2a-visas-analysis](https://github.com/datadesk/california-h2a-visas-analysis) | Temporary visas granted to foreign agricultural workers |
 |  2017-04-20 | [construction-jobs-analysis](https://github.com/datadesk/construction-jobs-analysis) | The demographics and pay of construction workers |
-|  2017-02-05 | [california-electricity-capacity-analysis](https://github.com/datadesk/california-electricity-capacity-analysis) | California's power glut and the increasing cost to consumers |
+|  2017-02-05 | [california-electricity-capacity-analysis](https://github.com/datadesk/california-electricity-capacity-analysis) | California's costly power glut |
 |  2016-10-31 | [california-ccscore-analysis](https://github.com/datadesk/california-ccscore-analysis) | Water usage after the state eased drought restrictions |
 |  2016-06-15 | [la-vacant-building-complaints-analysis](https://github.com/datadesk/la-vacant-building-complaints-analysis) | Vacant building complaints filed with L.A. city |
 |  2015-10-15 | [lapd-crime-classification-analysis](https://github.com/datadesk/lapd-crime-classification-analysis) | Serious assaults misclassified by LAPD |
