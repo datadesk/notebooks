@@ -16,4 +16,5 @@ All of our computational notebooks. Also available as [a CSV file](notebooks.csv
 |  2017-02-05 | [california-electricity-capacity-analysis](https://github.com/datadesk/california-electricity-capacity-analysis) | California's costly power glut |
 |  2016-10-31 | [california-ccscore-analysis](https://github.com/datadesk/california-ccscore-analysis) | Water usage after the state eased drought restrictions |
 |  2016-06-15 | [la-vacant-building-complaints-analysis](https://github.com/datadesk/la-vacant-building-complaints-analysis) | Vacant building complaints filed with L.A. city |
+|  2016-04-14 | [kobe-every-shot-ever](https://github.com/datadesk/kobe-every-shot-ever) | Every shot in Kobe Bryant's NBA career |
 |  2015-10-15 | [lapd-crime-classification-analysis](https://github.com/datadesk/lapd-crime-classification-analysis) | Serious assaults misclassified by LAPD |
