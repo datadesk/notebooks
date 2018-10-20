@@ -2,6 +2,6 @@
 
 All of our computational notebooks.
 
-| slug  | date | description |
+| date  | slug | description |
 |---|---|---|{% for obj in object_list %}
-| [{{ obj.slug }}]({{ obj.url }}) | {{ obj.date }} | {{ obj.description }} |{% endfor %}
+|  `{{ obj.date }}` | [{{ obj.slug }}]({{ obj.url }}) | {{ obj.description }} |{% endfor %}
