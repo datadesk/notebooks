@@ -2,7 +2,7 @@
 
 All of our computational notebooks.
 
-| date  | slug | description |
+| date &nbsp; &nbsp; | slug | description |
 |---|---|---|
 |  `2018-10-20` | [hollister-ranch-analysis](https://github.com/datadesk/hollister-ranch-analysis) | Agricultural property tax breaks in Hollister Ranch |
 |  `2018-06-27` | [la-settlements-analysis](https://github.com/datadesk/la-settlements-analysis) | Legal payouts made by Los Angeles city |
