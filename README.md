@@ -8,7 +8,7 @@ All of our computational notebooks. Also available as [a CSV file](notebooks.csv
 |  2018-06-27 | [la-settlements-analysis](https://github.com/datadesk/la-settlements-analysis) | Legal payouts made by L.A. city |
 |  2018-03-16 | [street-racing-analysis](https://github.com/datadesk/street-racing-analysis) | Street racing fatalities in L.A. County |
 |  2018-02-04 | [homeless-arrests-analysis](https://github.com/datadesk/homeless-arrests-analysis) | Arrests of the homeless by the LAPD |
-|  2017-12-14 | [ferc-enforcement-analysis](https://github.com/datadesk/ferc-enforcement-analysis) | Civil penalties issued by the FERC |
+|  2017-12-14 | [ferc-enforcement-analysis](https://github.com/datadesk/ferc-enforcement-analysis) | Civil penalties issued by FERC |
 |  2017-11-08 | [houston-flood-zone-analysis](https://github.com/datadesk/houston-flood-zone-analysis) | Houston homes after Hurricane Harvey |
 |  2017-08-13 | [california-kindergarten-vaccination-analysis](https://github.com/datadesk/california-kindergarten-vaccination-analysis) | California kindergartens with the lowest vaccination rates |
 |  2017-05-25 | [california-h2a-visas-analysis](https://github.com/datadesk/california-h2a-visas-analysis) | Temporary visas granted to foreign agricultural workers |
