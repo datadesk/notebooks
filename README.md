@@ -4,6 +4,7 @@ All of our computational notebooks. Also available as [a CSV file](notebooks.csv
 
 | date | slug | description |
 |:--|:--|:--|
+|  2019-02-27 | [highschool-homicide-analysis](https://github.com/datadesk/highschool-homicide-analysis) | Homicides near high schools |
 |  2019-02-11 | [deleon-district-election-results-analysis](https://github.com/datadesk/deleon-district-election-results-analysis) | How former state Sen. Kevin de León fared |
 |  2018-12-27 | [nyrb-covers-analysis](https://github.com/datadesk/nyrb-covers-analysis) | Color and content of NYRB Classics book covers |
 |  2018-12-18 | [california-fire-zone-analysis](https://github.com/datadesk/california-fire-zone-analysis) | California buildings in fire hazard zones |
