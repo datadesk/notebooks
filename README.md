@@ -4,7 +4,7 @@ All of our computational notebooks. Also available as [a CSV file](notebooks.csv
 
 | date | slug | description |
 |:--|:--|:--|
-|  2019-04-16 | [lawlers-law](https://github.com/ryanvmenezes/lawlers-law) | Does the first team to score 100 points usually win? We checked 27,000 NBA games to find out |
+|  2019-04-16 | [Lawlers-law](https://github.com/ryanvmenezes/lawlers-law) | Does the first team to score 100 points usually win? We checked 27,000 NBA games to find out |
 |  2019-03-29 | [swana-census-analysis](https://github.com/datadesk/swana-census-analysis) | Are Arabs and Iranians white? |
 |  2019-02-27 | [highschool-homicide-analysis](https://github.com/datadesk/highschool-homicide-analysis) | Homicides near high schools |
 |  2019-02-11 | [deleon-district-election-results-analysis](https://github.com/datadesk/deleon-district-election-results-analysis) | How former state Sen. Kevin de León fared |
