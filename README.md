@@ -7,7 +7,7 @@ All of our computational notebooks. Also available as [a CSV file](notebooks.csv
 |  2019-04-16 | [lawlers-law](https://github.com/ryanvmenezes/lawlers-law) | Does the first team to score 100 points usually win? |
 |  2019-03-29 | [swana-census-analysis](https://github.com/datadesk/swana-census-analysis) | Are Arabs and Iranians white? |
 |  2019-03-22 | [la-me-ln-california-fire-aircraft-delay](https://github.com/kyleykim/R_Scripts/tree/master/la-me-ln-california-fire-aircraft-delay) | When wildfires in California have started |
-|  2019-03-12 | [la-me-ln-hhh-unequal](https://github.com/kyleykim/R_Scripts/tree/master/la-me-ln-hhh-unequal) | L.A. promised more housing for homeless people — but some neighborhoods are way behind |
+|  2019-03-12 | [la-me-ln-hhh-unequal](https://github.com/kyleykim/R_Scripts/tree/master/la-me-ln-hhh-unequal) | L.A. promised homeless housing, but some neighborhoods are way behind |
 |  2019-02-27 | [highschool-homicide-analysis](https://github.com/datadesk/highschool-homicide-analysis) | Homicides near high schools |
 |  2019-02-11 | [deleon-district-election-results-analysis](https://github.com/datadesk/deleon-district-election-results-analysis) | How former state Sen. Kevin de León fared |
 |  2018-12-27 | [nyrb-covers-analysis](https://github.com/datadesk/nyrb-covers-analysis) | Color and content of NYRB Classics book covers |
