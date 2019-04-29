@@ -1,6 +1,6 @@
 # datadesk/notebooks
 
-All  of our computational notebooks. Also available as [a CSV file](notebooks.csv). Elsewhere you can find our open-source [software packages](https://github.com/datadesk/packages) and [tutorials](https://github.com/datadesk/tutorials).
+All 27 of our computational notebooks. Also available as [a CSV file](notebooks.csv). Elsewhere you can find our open-source [software packages](https://github.com/datadesk/packages) and [tutorials](https://github.com/datadesk/tutorials).
 
 | date | slug | description |
 |:--|:--|:--|
