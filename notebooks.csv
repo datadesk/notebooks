@@ -1,4 +1,6 @@
 slug,date,description,url
+census-hard-to-map-analysis,2019-04-29,"Mapping hard-to-count Census tracts",https://github.com/datadesk/census-hard-to-map-analysis
+hsr-document-analysis,2019-04-26,"How many pages can one agency publish?",https://github.com/datadesk/hsr-document-analysis
 lawlers-law,2019-04-16,"Does the first team to score 100 points usually win?",https://github.com/ryanvmenezes/lawlers-law
 swana-census-analysis,2019-03-29,Are Arabs and Iranians white?,https://github.com/datadesk/swana-census-analysis
 fire-aircraft-delay,2019-03-22,"When wildfires in California have started",https://github.com/kyleykim/R_Scripts/tree/master/la-me-ln-california-fire-aircraft-delay

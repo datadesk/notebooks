@@ -4,6 +4,8 @@ All of our computational notebooks. Also available as [a CSV file](notebooks.csv
 
 | date | slug | description |
 |:--|:--|:--|
+|  2019-04-29 | [census-hard-to-map-analysis](https://github.com/datadesk/census-hard-to-map-analysis) | Mapping hard-to-count Census tracts |
+|  2019-04-26 | [hsr-document-analysis](https://github.com/datadesk/hsr-document-analysis) | How many pages can one agency publish? |
 |  2019-04-16 | [lawlers-law](https://github.com/ryanvmenezes/lawlers-law) | Does the first team to score 100 points usually win? |
 |  2019-03-29 | [swana-census-analysis](https://github.com/datadesk/swana-census-analysis) | Are Arabs and Iranians white? |
 |  2019-03-22 | [fire-aircraft-delay](https://github.com/kyleykim/R_Scripts/tree/master/la-me-ln-california-fire-aircraft-delay) | When wildfires in California have started |
