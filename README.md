@@ -1,9 +1,10 @@
 # datadesk/notebooks
 
-All 27 of our computational notebooks. Also available as [a CSV file](notebooks.csv). Elsewhere you can find our open-source [software packages](https://github.com/datadesk/packages) and [tutorials](https://github.com/datadesk/tutorials).
+All 28 of our computational notebooks. Also available as [a CSV file](notebooks.csv). Elsewhere you can find our open-source [software packages](https://github.com/datadesk/packages) and [tutorials](https://github.com/datadesk/tutorials).
 
 | date | slug | description |
 |:--|:--|:--|
+|  2019-05-29 | [la-weedmaps-analysis](https://github.com/datadesk/la-weedmaps-analysis) | Mapping LA's unauthorized pot dispensaries |
 |  2019-04-29 | [census-hard-to-map-analysis](https://github.com/datadesk/census-hard-to-map-analysis) | Mapping hard-to-count Census tracts |
 |  2019-04-26 | [hsr-document-analysis](https://github.com/datadesk/hsr-document-analysis) | How many pages can one agency publish? |
 |  2019-04-16 | [lawlers-law](https://github.com/ryanvmenezes/lawlers-law) | Does the first team to score 100 points usually win? |
