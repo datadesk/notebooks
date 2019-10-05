@@ -4,7 +4,7 @@ All 31 of our computational notebooks. Also available as [a CSV file](notebooks.
 
 | date | slug | description |
 |:--|:--|:--|
-|  2019-09-19 | [women-homicides-analysis](None) | The rising number of women being killed |
+|  2019-09-19 | [women-homicides-analysis](https://github.com/datadesk/women-homicides-analysis) | The rising number of women being killed |
 |  2019-09-09 | [homeless-sleeping-restrictions](https://github.com/datadesk/homeless-sleeping-restrictions) | Mapping a proposed ban on street sleeping |
 |  2019-06-13 | [native-american-census-analysis](https://github.com/datadesk/native-american-census-analysis) | Native American census analysis |
 |  2019-05-29 | [la-weedmaps-analysis](https://github.com/datadesk/la-weedmaps-analysis) | Mapping LA's unauthorized pot dispensaries |
