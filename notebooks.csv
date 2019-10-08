@@ -1,14 +1,15 @@
 slug,date,description,url
-women-homicides-analysis,2019-09-19,"The rising number of women being killed"
-homeless-sleeping-restrictions,2019-09-09,"Mapping a proposed ban on street sleeping",https://github.com/datadesk/homeless-sleeping-restrictions
-native-american-census-analysis,2019-06-13,"Native American census analysis",https://github.com/datadesk/native-american-census-analysis
-la-weedmaps-analysis,2019-05-29,"Mapping LA's unauthorized pot dispensaries",https://github.com/datadesk/la-weedmaps-analysis
-census-hard-to-map-analysis,2019-04-29,"Mapping hard-to-count Census tracts",https://github.com/datadesk/census-hard-to-map-analysis
-hsr-document-analysis,2019-04-26,"How many pages can one agency publish?",https://github.com/datadesk/hsr-document-analysis
-lawlers-law,2019-04-16,"Does the first team to score 100 points usually win?",https://github.com/ryanvmenezes/lawlers-law
+ripa-analysis,2019-10-08,Racial disparities in LAPD search rates,https://github.com/datadesk/ripa-analysis
+women-homicides-analysis,2019-09-19,The rising number of women being killed,https://github.com/datadesk/women-homicides-analysis
+homeless-sleeping-restrictions,2019-09-09,Mapping a proposed ban on street sleeping,https://github.com/datadesk/homeless-sleeping-restrictions
+native-american-census-analysis,2019-06-13,Native American census analysis,https://github.com/datadesk/native-american-census-analysis
+la-weedmaps-analysis,2019-05-29,Mapping LA's unauthorized pot dispensaries,https://github.com/datadesk/la-weedmaps-analysis
+census-hard-to-map-analysis,2019-04-29,Mapping hard-to-count Census tracts,https://github.com/datadesk/census-hard-to-map-analysis
+hsr-document-analysis,2019-04-26,How many pages can one agency publish?,https://github.com/datadesk/hsr-document-analysis
+lawlers-law,2019-04-16,Does the first team to score 100 points usually win?,https://github.com/ryanvmenezes/lawlers-law
 swana-census-analysis,2019-03-29,Are Arabs and Iranians white?,https://github.com/datadesk/swana-census-analysis
-fire-aircraft-delay,2019-03-22,"When wildfires in California have started",https://github.com/kyleykim/R_Scripts/tree/master/la-me-ln-california-fire-aircraft-delay
-hhh-unequal,2019-03-12,"Some neighborhoods are behind on homeless housing",https://github.com/kyleykim/R_Scripts/tree/master/la-me-ln-hhh-unequal
+fire-aircraft-delay,2019-03-22,When wildfires in California have started,https://github.com/kyleykim/R_Scripts/tree/master/la-me-ln-california-fire-aircraft-delay
+hhh-unequal,2019-03-12,Some neighborhoods are behind on homeless housing,https://github.com/kyleykim/R_Scripts/tree/master/la-me-ln-hhh-unequal
 highschool-homicide-analysis,2019-02-27,Homicides near high schools,https://github.com/datadesk/highschool-homicide-analysis
 deleon-district-election-results-analysis,2019-02-11,How former state Sen. Kevin de León fared,https://github.com/datadesk/deleon-district-election-results-analysis
 nyrb-covers-analysis,2018-12-27,Color and content of NYRB Classics book covers,https://github.com/datadesk/nyrb-covers-analysis
