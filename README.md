@@ -4,8 +4,8 @@ All 34 of our computational notebooks. Also available as [a CSV file](notebooks.
 
 | date | slug | description |
 |:--|:--|:--|
-|  2019-11-07 | [Wine-country-fires](https://github.com/datadesk/wine-country-fires/) | Every fire in California's wine country since 1950 |
-|  2019-11-01 | [Deadspin-scraper](https://github.com/datadesk/deadspin-scraper) | Scrape posts from Deadspin |
+|  2019-11-07 | [wine-country-fires](https://github.com/datadesk/wine-country-fires/) | Every fire in California's wine country since 1950 |
+|  2019-11-01 | [deadspin-scraper](https://github.com/datadesk/deadspin-scraper) | Scrape posts from Deadspin |
 |  2019-10-08 | [ripa-analysis](https://github.com/datadesk/ripa-analysis) | Racial disparities in LAPD search rates |
 |  2019-09-19 | [women-homicides-analysis](https://github.com/datadesk/women-homicides-analysis) | The rising number of women being killed |
 |  2019-09-09 | [homeless-sleeping-restrictions](https://github.com/datadesk/homeless-sleeping-restrictions) | Mapping a proposed ban on street sleeping |
