@@ -1,9 +1,10 @@
 # datadesk/notebooks
 
-All 35 of our computational notebooks. Also available as [a CSV file](notebooks.csv). Elsewhere you can find our open-source [software packages](https://github.com/datadesk/packages) and [tutorials](https://github.com/datadesk/tutorials).
+All 36 of our computational notebooks. Also available as [a CSV file](notebooks.csv). Elsewhere you can find our open-source [software packages](https://github.com/datadesk/packages) and [tutorials](https://github.com/datadesk/tutorials).
 
 | date | slug | description |
 |:--|:--|:--|
+|  2021-10-07 | [datadesk/extreme-heat-excess-deaths-analysis](https://github.com/datadesk/extreme-heat-excess-deaths-analysis) | Extreme heat excess deaths |
 |  2019-12-12 | [star-wars-analysis](https://github.com/datadesk/star-wars-analysis) | Star Wars dialogue analysis |
 |  2019-11-07 | [wine-country-fires](https://github.com/datadesk/wine-country-fires/) | Every fire in California's wine country since 1950 |
 |  2019-11-01 | [deadspin-scraper](https://github.com/datadesk/deadspin-scraper) | Scrape posts from Deadspin |
