@@ -4,6 +4,7 @@ All 36 of our computational notebooks. Also available as [a CSV file](notebooks.
 
 | date | slug | description |
 |:--|:--|:--|
+|  2021-11-04 | [datadesk/LAUSD-2020-grades](https://github.com/datadesk/LAUSD-2020-grades) | LAUSD grades analysis |
 |  2021-10-07 | [datadesk/extreme-heat-excess-deaths-analysis](https://github.com/datadesk/extreme-heat-excess-deaths-analysis) | Extreme heat excess deaths |
 |  2019-12-12 | [star-wars-analysis](https://github.com/datadesk/star-wars-analysis) | Star Wars dialogue analysis |
 |  2019-11-07 | [wine-country-fires](https://github.com/datadesk/wine-country-fires/) | Every fire in California's wine country since 1950 |
