@@ -4,7 +4,7 @@ All 38 of our computational notebooks. Also available as [a CSV file](notebooks.
 
 | date | slug | description |
 |:--|:--|:--|
-|  2021-12-16 | [groundwater-analysis](Groundwater levels, and water shortages in the San Joaquin Valley) | well completion |
+|  2021-12-16 | [groundwater-analysis](https://github.com/datadesk/groundwater-analysis) | Well completion, groundwater levels, and water shortages in the San Joaquin Valley |
 |  2021-11-04 | [LAUSD-2020-grades](https://github.com/datadesk/LAUSD-2020-grades) | LAUSD grades analysis |
 |  2021-10-07 | [extreme-heat-excess-deaths-analysis](https://github.com/datadesk/extreme-heat-excess-deaths-analysis) | Extreme heat excess deaths |
 |  2019-12-12 | [star-wars-analysis](https://github.com/datadesk/star-wars-analysis) | Star Wars dialogue analysis |
